@@ -27,7 +27,3 @@ This Unity-based Weapon System allows you to create and manage multiple types of
 1. **Switch Weapon**: Use the `WeaponManager` to switch between different weapons.
 2. **Fire Weapon**: Use the `Fire` method to fire the currently equipped weapon.
 3. **Reload Weapon**: The `WeaponManager` will handle reloading when ammo is depleted.
-
-## License
-
-MIT License
