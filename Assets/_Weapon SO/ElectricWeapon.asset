@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: ElectricWeapon
   m_EditorClassIdentifier: 
   weaponType: 2
-  fireRate: 2
-  maxAmmo: 10
+  fireRate: 0.2
+  maxAmmo: 50
   reloadTime: 5
   emptyMagClip: {fileID: 8300000, guid: 875e878b727395f4ebaf7b5fdba2ff98, type: 3}
   fireSound: {fileID: 8300000, guid: e824df51c37fee744903c896c56e716f, type: 3}
